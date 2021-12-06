@@ -36,6 +36,9 @@ MovieRevenuePrediction
 +-- old -> contains old versions of the workflow
 |   
 |
++-- support scripts -> R and Python scripts
+|
+|
 +-- README.md
 |
 |
